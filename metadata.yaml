@@ -1,0 +1,31 @@
+_repo: A-Sermon-Preached-in-Christ-Church-Hartford-January-29th-1865--13-In-Commemoration-of-the-Rt.__42605
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42605-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, J. (John)
+    alias: Williams, John
+    birthdate: 1817
+    deathdate: 1899
+    gutenberg_agent_id: '41768'
+    url: http://www.gutenberg.org/2009/agents/41768
+    wikipedia: http://en.wikipedia.org/wiki/John_Williams_(bishop_of_Connecticut)
+description: ''
+gutenberg_issued: '2013-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Brownell, Thomas Church, 1779-1865'
+title: "A Sermon Preached in Christ Church, Hartford, January 29th, 1865\r\nIn Commemoration\
+  \ of the Rt. Rev. Thomas Church Brownell, D. D., LL. D., Third Bishop of Connecticut,\
+  \ and Presiding Bishop of the Protestant Episcopal Church in the United States by\
+  \ his Assistant and Successor"
+url: http://www.gutenberg.org/ebooks/42605
