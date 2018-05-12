@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41768
     wikipedia: http://en.wikipedia.org/wiki/John_Williams_(bishop_of_Connecticut)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42605#A-Sermon-Preached-in-Christ-Church-Hartford-January-29th-1865--13-In-Commemoration-of-the-Rt._
 gutenberg_issued: '2013-04-27'
 gutenberg_type: Text
 identifiers:
